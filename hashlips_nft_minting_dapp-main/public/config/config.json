@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0dc8cf49Aa99806C93ea67a1B7A5400822b87012",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0dc8cf49aa99806c93ea67a1b7a5400822b87012",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "DRYRUNTCS",
+  "SYMBOL": "DRYTCS",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
